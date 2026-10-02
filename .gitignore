@@ -1,0 +1,7 @@
+# Credentials live in n8n's credential store, never in this repo.
+.env
+*.env
+credentials*
+
+.DS_Store
+Thumbs.db
